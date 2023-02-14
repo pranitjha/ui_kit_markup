@@ -23,4 +23,29 @@
 
 ### Issues with current markup
 
+* Unneccessary div container
+* We can use margin to add the white space on top and bottom instead of padding and then remove the additional div container to reduce the markup.
+
 ## Suggested markup
+
+```
+<div class="outer-container with-margins">
+   <div class="inner-boxed-container">
+      <div class="row">
+         <div class="inner-row">
+            <div class="col>
+               <div class="container-for-dropzone">
+               
+               </div>
+            </div>
+            <div class="col>
+               <div class="container-for-image">
+                  <img src="" alt="" />
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+
+```
