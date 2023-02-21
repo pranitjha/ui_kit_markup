@@ -36,3 +36,12 @@
 *   Price card
 *   Stat card
 *   Social links card
+
+## Accordion components
+
+*   Accordion container
+*   Accordion item
+
+## Read more components
+
+*   Read more
