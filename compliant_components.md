@@ -20,6 +20,7 @@
 *   Button(s)
 *   Image
 *   Video
+*   Audio
 *   Background video
 *   Blockquote
 
@@ -30,6 +31,7 @@
 *   Content card
 *   Horizontal content card
 *	Impact card
+*   Contact information card
 *   Profile card
 *   Testimonial card
 *   Logo card
@@ -45,3 +47,13 @@
 ## Read more components
 
 *   Read more
+
+## Map components
+
+*   Google map
+
+## Header & footer components
+
+*   Site header
+*   Utilities bar - horizontal
+*   Utilities bar - vertical
